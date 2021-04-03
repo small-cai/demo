@@ -6,7 +6,7 @@
   <link href="http://small-cai.github.io/atom.xml" rel="self"/>
   
   <link href="http://small-cai.github.io/"/>
-  <updated>2021-04-02T13:47:00.738Z</updated>
+  <updated>2021-04-03T08:24:18.081Z</updated>
   <id>http://small-cai.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>有趣的数</title>
+    <link href="http://small-cai.github.io/2021/04/03/you-qu-de-shu/"/>
+    <id>http://small-cai.github.io/2021/04/03/you-qu-de-shu/</id>
+    <published>2021-04-03T07:49:54.000Z</published>
+    <updated>2021-04-03T08:24:18.081Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h2 id=&quot;题干描述&quot;&gt;&lt;a href=&quot;#题干描述&quot; class=&quot;headerlink&quot; title=&quot;题干描述&quot;&gt;&lt;/a&gt;题干描述&lt;/h2&gt;&lt;h3 id=&quot;201312-4&quot;&gt;&lt;a href=&quot;#201312-4&quot; class=&quot;headerlink&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="算法" scheme="http://small-cai.github.io/categories/%E7%AE%97%E6%B3%95/"/>
+    
+    
+    <category term="CCF" scheme="http://small-cai.github.io/tags/CCF/"/>
+    
+    <category term="组合数" scheme="http://small-cai.github.io/tags/%E7%BB%84%E5%90%88%E6%95%B0/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>

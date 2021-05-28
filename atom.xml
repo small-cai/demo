@@ -6,7 +6,7 @@
   <link href="http://small-cai.github.io/atom.xml" rel="self"/>
   
   <link href="http://small-cai.github.io/"/>
-  <updated>2021-04-20T11:41:57.499Z</updated>
+  <updated>2021-05-28T11:16:48.970Z</updated>
   <id>http://small-cai.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://small-cai.github.io/2021/05/28/buflab-shi-yan/"/>
+    <id>http://small-cai.github.io/2021/05/28/buflab-shi-yan/</id>
+    <published>2021-05-28T12:02:30.635Z</published>
+    <updated>2021-05-28T11:16:48.970Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;实验题目：buflab&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;&lt;tr&gt;
+&lt;td&gt;实验目的：搞懂缓冲区溢出原理，以及堆栈的过程，函数调用的实现过程。&lt;/td&gt;
+&lt;td&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;t</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>最小电路板长度排列问题</title>
